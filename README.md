@@ -71,6 +71,13 @@ Focused on building secure systems and user-friendly interfaces that are reliabl
 
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mantra-17/Mantra-17/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ### 😄 Fun Side
 
